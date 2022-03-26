@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-c#" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Fwindows%2Fdev-environment%2F&psig=AOvVaw2mwftZOaIDRvrZwZZaBJwM&ust=1648401258596000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPj8q62j5PYCFQAAAAAdAAAAABAD">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/755948149683519509/946424345390096444/ezgif.com-gif-maker.gif">
 </div>
   
