@@ -1,7 +1,7 @@
 ### Hi there, my name is Bianca but you can call me Clou👾
-- 🟢 From Brazil/Minas Gerais
-- 🟣 I’m currently learning HTML, CSS and JavaScript
-- 🔵 Pronouns: she/her
+- 🟢 From Brazil/Minas Gerais.
+- 🟣 I’m currently learning HTML, CSS, JavaScript and C#.
+- 🔵 Pronouns: she/her.
 
 <div align="center">
   <a href="https://github.com/Clousbi">
